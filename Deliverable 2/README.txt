@@ -1,5 +1,4 @@
-This folder contains a uml graph, our project's zip file, README.txt, and apk file. A folder consisting our .java file and a folder consisting our xml file. We used 
-SOL as our database.
+This folder contains a uml graph, our project's zip file, README.txt, and apk file. A folder consisting our .java file and a folder consisting our xml file. We used SOL as our database.
 
 Admin : webest@qq.com
 Password: 211314
